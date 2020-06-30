@@ -10,6 +10,8 @@ You may use this repo to interface with the Gretel.ai team. The following topics
 
 - General Functionality / Features
 
+- Documentation
+
 **Please open an issue and select the issue template most related to your concern!**
 
 # Open Source Support
