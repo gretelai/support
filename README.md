@@ -6,10 +6,6 @@ You may use this repo to interface with the Gretel.ai team. The following topics
 
 - User Interface / Console
 
-- General Functionality / Features
-
-- Documentation
-
 **Please open an issue and select the issue template most related to your concern!**
 
 # Open Source Support
@@ -21,4 +17,4 @@ If you are using an open source product or tool, please open an issue in the app
 
 # Private Support
 
-If your matter is private and cannot be discussed in an open forum like GitHub, please contact us: **support[at]gretel.ai**
+If your matter is private and cannot be discussed in an open forum like GitHub, please contact us: **customer-support@gretel.ai**
