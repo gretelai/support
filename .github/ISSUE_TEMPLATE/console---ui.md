@@ -3,7 +3,7 @@ name: Console / UI
 about: Issues with the Gretel Console and User Interface
 title: "[CONSOLE]"
 labels: console-ui, triage
-assignees: aehrath-gretel, arronhunt, johntmyers
+assignees: arronhunt, johntmyers
 
 ---
 
