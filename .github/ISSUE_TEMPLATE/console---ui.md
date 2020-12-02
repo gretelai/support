@@ -7,7 +7,7 @@ assignees: arronhunt, johntmyers
 
 ---
 
-**Is this a bug or a FR?**
+**Is this a bug or a Feature Request (FR) ?**
 
 <Bug/FR>
 
