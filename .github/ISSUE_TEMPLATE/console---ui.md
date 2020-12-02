@@ -9,7 +9,7 @@ assignees: arronhunt, johntmyers
 
 **Is this a bug or a Feature Request (FR) ?**
 
-<Bug/FR>
+<info>
 
 **What would you like to see changed, enhanced, or fixed?**
 
